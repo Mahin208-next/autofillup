@@ -1,0 +1,8 @@
+question_id,question_text,question_type,options,category,required,reverse_coded
+DEM_AGE,Which age group do you belong to?,Multiple Choice,18–24 years; 25–34 years; 35–44 years; 45+ years,Demographics,True,False
+DEM_GEN,What is your gender?,Multiple Choice,Female; Male; Prefer not to say / Other,Demographics,True,False
+DEM_EDU,What is your highest completed level of education?,Multiple Choice,Secondary (SSC); Higher Secondary (HSC); Bachelor Degree; Master Degree or above,Demographics,True,False
+TR_AI_01,I believe health information provided by AI chatbots is trustworthy.,Likert Scale,1 - Strongly Disagree; 2 - Disagree; 3 - Neutral; 4 - Agree; 5 - Strongly Agree,Trust in AI Chatbots,True,False
+TR_AI_02,I feel confident acting on health advice suggested by AI chatbots.,Likert Scale,1 - Strongly Disagree; 2 - Disagree; 3 - Neutral; 4 - Agree; 5 - Strongly Agree,Trust in AI Chatbots,True,False
+RSK_AI_01,How risky is it to follow medicine advice from an AI chatbot without doctor confirmation?,Likert Scale,1 - Not at all risky; 2 - Slightly risky; 3 - Moderately risky; 4 - Very risky; 5 - Extremely risky,Perceived Risk,True,False
+SM_BEH_01,"During the past 12 months, have you taken medicine based on AI or social media advice?",Multiple Choice,Yes; No,Self-Medication Behavior,True,False

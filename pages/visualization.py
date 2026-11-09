@@ -108,4 +108,12 @@ def render():
 
         if fig:
             st.plotly_chart(fig, use_container_width=True)
+            html_bytes = fig.to_html(include_plotlyjs="cdn").encode("utf-8")
+            st.download_button(
+                label="⬇️ Download Interactive Chart (HTML)",
+                data=html_bytes,
+                file_name=f"SurveyForge_{chart_type.split(' ')[0]}_chart.html",
+                mime="text/html",
+                use_container_width=True
+            )
 

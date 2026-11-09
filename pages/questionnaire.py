@@ -59,6 +59,18 @@ def render():
     with tab2:
         st.markdown("#### Import Questionnaire from CSV")
         st.write("Upload a CSV file containing columns: `question_text`, `question_type`, `options`, `category`, `required`.")
+
+        template_csv_path = Path("assets/sample_questionnaire_template.csv")
+        if template_csv_path.exists():
+            with open(template_csv_path, "rb") as f:
+                st.download_button(
+                    "📥 Download Sample CSV Questionnaire Template",
+                    data=f.read(),
+                    file_name="SurveyForge_Questionnaire_Template.csv",
+                    mime="text/csv",
+                    help="Use this template to format questions for upload"
+                )
+
         csv_file = st.file_uploader("Upload CSV Questionnaire", type=["csv"], key="csv_uploader")
         if csv_file:
             res = FormParser.parse_csv(csv_file)
@@ -76,6 +88,18 @@ def render():
     with tab3:
         st.markdown("#### Import Questionnaire from Excel")
         st.write("Upload an Excel file (.xlsx) with questionnaire columns.")
+
+        template_xlsx_path = Path("assets/sample_questionnaire_template.xlsx")
+        if template_xlsx_path.exists():
+            with open(template_xlsx_path, "rb") as f:
+                st.download_button(
+                    "📥 Download Sample Excel Questionnaire Template",
+                    data=f.read(),
+                    file_name="SurveyForge_Questionnaire_Template.xlsx",
+                    mime="application/vnd.openxmlformats-officedocument.spreadsheetml.sheet",
+                    help="Use this template to format questions in Excel"
+                )
+
         excel_file = st.file_uploader("Upload Excel Questionnaire", type=["xlsx", "xls"], key="excel_uploader")
         if excel_file:
             res = FormParser.parse_excel(excel_file)

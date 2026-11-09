@@ -15,9 +15,10 @@ def render():
 
     project_id = st.session_state.get("current_project_id")
 
-    tab_items, tab_vars, tab_edit = st.tabs([
+    tab_items, tab_vars, tab_codebook, tab_edit = st.tabs([
         "📋 Questionnaire Items & Categories",
         "🎯 Research Variables & Composite Scales",
+        "📖 Survey Codebook",
         "✏️ Edit Individual Question"
     ])
 
@@ -130,7 +131,50 @@ def render():
                         st.success("Variable deleted.")
                         st.rerun()
 
-        # TAB 3: Edit Individual Question
+        # TAB 3: Research Codebook
+        with tab_codebook:
+            st.markdown("#### Academic Survey Codebook")
+            st.write("Formal measurement metadata, question definitions, and scale specifications.")
+
+            if not q_objs:
+                st.info("No questions in active questionnaire.")
+            else:
+                codebook_rows = []
+                for q in q_objs:
+                    # Infer measurement level
+                    if q.question_type == "Likert Scale" or q.question_type == "Linear Scale":
+                        meas_level = "Ordinal / Interval"
+                    elif q.question_type in ("Numeric"):
+                        meas_level = "Scale / Ratio"
+                    elif q.question_type in ("Multiple Choice", "Dropdown", "Checkboxes", "Yes/No"):
+                        meas_level = "Nominal"
+                    else:
+                        meas_level = "Textual / String"
+
+                    codebook_rows.append({
+                        "Variable Name": q.variable_name,
+                        "Item ID": q.question_id,
+                        "Category": q.category,
+                        "Measurement Level": meas_level,
+                        "Type": q.question_type,
+                        "Required": "Yes" if q.required else "No",
+                        "Reverse Coded": "Yes" if q.reverse_coded else "No",
+                        "Answer Options": ", ".join(q.get_options()) if q.get_options() else "N/A",
+                        "Question Text": q.question_text
+                    })
+
+                cb_df = pd.DataFrame(codebook_rows)
+                st.dataframe(cb_df, use_container_width=True, hide_index=True)
+
+                csv_cb = cb_df.to_csv(index=False).encode("utf-8")
+                st.download_button(
+                    "⬇️ Download Codebook (CSV)",
+                    data=csv_cb,
+                    file_name="Survey_Codebook.csv",
+                    mime="text/csv"
+                )
+
+        # TAB 4: Edit Individual Question
         with tab_edit:
             st.markdown("#### Edit Questionnaire Item Attributes")
             if not q_objs:
