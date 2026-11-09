@@ -102,9 +102,20 @@ class QuestionMapper:
             matching_cols = []
             for col in df.columns:
                 for qid in q_ids:
-                    # Column name starts with qid or qid is in column
+                    # Match by column prefix or exact name
                     if col.lower().startswith(f"{qid.lower()}_") or col.lower() == qid.lower():
                         matching_cols.append(col)
+                    # Or match via questions_metadata question_id or variable_name
+                    elif qid in questions_metadata:
+                        meta_var = questions_metadata[qid].get("variable_name", "")
+                        if meta_var and (col == meta_var or col.lower() == meta_var.lower()):
+                            matching_cols.append(col)
+                    else:
+                        # Reverse check: find question in metadata whose variable_name is col
+                        for meta_qid, meta_info in questions_metadata.items():
+                            if (meta_qid.lower() == qid.lower() or meta_info.get("question_id", "").lower() == qid.lower()):
+                                if meta_info.get("variable_name") == col:
+                                    matching_cols.append(col)
 
             if not matching_cols:
                 continue
