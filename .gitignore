@@ -1,0 +1,33 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# Testing and cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Local databases & environment secrets
+.env
+*.db
+*.sqlite3
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Generated data artifacts (keep directory structure)
+datasets/*.csv
+!datasets/.gitkeep
+exports/*.csv
+exports/*.xlsx
+exports/*.sav
+exports/*.pdf
+!exports/.gitkeep

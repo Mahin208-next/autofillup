@@ -1,0 +1,3076 @@
+[
+  [
+    534445042,
+    "Are you 18 years of age or older?\nআপনার বয়স কি ১৮ বছর বা তার বেশি?",
+    null,
+    2,
+    [
+      [
+        1340538472,
+        [
+          [
+            "Yes / হ্যাঁ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>Are you 18 years of age or older?</p><p>আপনার বয়স কি ১৮ বছর বা তার বেশি?</p>"
+    ]
+  ],
+  [
+    697263257,
+    " Do you voluntarily agree to participate in this research?\nআপনি কি স্বেচ্ছায় এই গবেষণায় অংশগ্রহণ করতে সম্মত?",
+    null,
+    2,
+    [
+      [
+        738609791,
+        [
+          [
+            "Yes, I agree / হ্যাঁ, আমি সম্মত",
+            null,
+            -2,
+            null,
+            0
+          ],
+          [
+            "No, I do not agree / না, আমি সম্মত নই",
+            null,
+            -3,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p> Do you voluntarily agree to participate in this research?</p><p>আপনি কি স্বেচ্ছায় এই গবেষণায় অংশগ্রহণ করতে সম্মত?</p>"
+    ]
+  ],
+  [
+    1434474343,
+    "Participant background / অংশগ্রহণকারীর ব্যক্তিগত তথ্য",
+    null,
+    8,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "Participant background / অংশগ্রহণকারীর ব্যক্তিগত তথ্য"
+    ]
+  ],
+  [
+    510960661,
+    " Which age group do you belong to?\nআপনার বয়স কোন শ্রেণিতে পড়ে?",
+    null,
+    2,
+    [
+      [
+        1516875028,
+        [
+          [
+            "18–24 years / ১৮–২৪ বছর",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "25–34 years / ২৫–৩৪ বছর",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "35–44 years / ৩৫–৪৪ বছর",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "45–54 years / ৪৫–৫৪ বছর",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "55–64 years / ৫৫–৬৪ বছর",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "65 years or above / ৬৫ বছর বা তার বেশি",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p> Which age group do you belong to?</p><p>আপনার বয়স কোন শ্রেণিতে পড়ে?</p>"
+    ]
+  ],
+  [
+    903047775,
+    "What is your gender?\nআপনার লিঙ্গ কী?",
+    null,
+    2,
+    [
+      [
+        365387053,
+        [
+          [
+            "Woman / নারী",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Man / পুরুষ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Another identity / অন্য পরিচয়",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>What is your gender?</p><p>আপনার লিঙ্গ কী?</p>"
+    ]
+  ],
+  [
+    2102317383,
+    " What is your highest completed level of education?\nআপনার সর্বোচ্চ সম্পন্ন শিক্ষাগত যোগ্যতা কী?",
+    null,
+    2,
+    [
+      [
+        1572986632,
+        [
+          [
+            "No formal schooling / প্রাতিষ্ঠানিক শিক্ষা নেই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Primary / প্রাথমিক",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Secondary / মাধ্যমিক",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Higher secondary / উচ্চমাধ্যমিক",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Diploma or technical education / ডিপ্লোমা বা কারিগরি শিক্ষা",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Bachelor's degree / স্নাতক",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Master's degree or above / স্নাতকোত্তর বা তার বেশি",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p> What is your highest completed level of education?</p><p>আপনার সর্বোচ্চ সম্পন্ন শিক্ষাগত যোগ্যতা কী?</p>"
+    ]
+  ],
+  [
+    1613620065,
+    "Where do you currently live?\nআপনি বর্তমানে কোথায় বসবাস করেন?",
+    null,
+    2,
+    [
+      [
+        310425685,
+        [
+          [
+            "Rural / গ্রাম",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Semi-urban / মফস্বল",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Urban / শহর",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>Where do you currently live?</p><p>আপনি বর্তমানে কোথায় বসবাস করেন?</p>"
+    ]
+  ],
+  [
+    1201963032,
+    "What best describes your current situation?\nআপনার বর্তমান অবস্থা কোনটি?",
+    null,
+    2,
+    [
+      [
+        247982522,
+        [
+          [
+            "Student / শিক্ষার্থী",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Employed / চাকরিজীবী",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Self-employed / স্বনিয়োজিত",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not employed / কর্মহীন",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Homemaker / গৃহস্থালি কাজে নিয়োজিত",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Other / অন্যান্য",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>What best describes your current situation?</p><p>আপনার বর্তমান অবস্থা কোনটি?</p>"
+    ]
+  ],
+  [
+    56326976,
+    "Use of health information sources / স্বাস্থ্য-তথ্যের উৎসের ব্যবহার ",
+    "For the following questions, think about the past 12 months unless stated otherwise.\n\nপরবর্তী প্রশ্নগুলোর ক্ষেত্রে অন্যভাবে উল্লেখ না থাকলে গত ১২ মাসের অভিজ্ঞতা অনুযায়ী উত্তর দিন ।",
+    8,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "Use of health information sources / স্বাস্থ্য-তথ্যের উৎসের ব্যবহার "
+    ],
+    [
+      null,
+      "For the following questions, think about the past 12 months unless stated otherwise.<div><br><div>পরবর্তী প্রশ্নগুলোর ক্ষেত্রে অন্যভাবে উল্লেখ না থাকলে গত ১২ মাসের অভিজ্ঞতা অনুযায়ী উত্তর দিন ।</div></div>"
+    ]
+  ],
+  [
+    1641349445,
+    "In the past 12 months, how often have you used an AI chatbot (e.g., ChatGPT) for health information?\nগত ১২ মাসে স্বাস্থ্য-তথ্যের জন্য AI chatbot (যেমন ChatGPT) কতবার ব্যবহার করেছেন?",
+    null,
+    2,
+    [
+      [
+        927674484,
+        [
+          [
+            "Never / কখনো না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Once or twice / এক-দুইবার",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "A few times a month / মাসে কয়েকবার",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "A few times a week / সপ্তাহে কয়েকবার",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Daily or almost daily / প্রতিদিন বা প্রায় প্রতিদিন",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>In the past 12 months, how often have you used an AI chatbot (e.g., ChatGPT) for health information?</p><p>গত ১২ মাসে স্বাস্থ্য-তথ্যের জন্য AI chatbot (যেমন ChatGPT) কতবার ব্যবহার করেছেন?</p>"
+    ]
+  ],
+  [
+    947802806,
+    "In the past 12 months, how often have you used social media for health information?\nগত ১২ মাসে স্বাস্থ্য-তথ্যের জন্য social media কতবার ব্যবহার করেছেন?",
+    null,
+    2,
+    [
+      [
+        1464093730,
+        [
+          [
+            "Never / কখনো না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Once or twice / এক-দুইবার",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "A few times a month / মাসে কয়েকবার",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "A few times a week / সপ্তাহে কয়েকবার",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Daily or almost daily / প্রতিদিন বা প্রায় প্রতিদিন",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>In the past 12 months, how often have you used social media for health information?</p>\n<p>গত ১২ মাসে স্বাস্থ্য-তথ্যের জন্য social media কতবার ব্যবহার করেছেন?</p>"
+    ]
+  ],
+  [
+    1670441431,
+    "When you have a health concern, which source do you usually consult first?\nস্বাস্থ্য নিয়ে কোনো সমস্যা হলে সাধারণত প্রথমে কোন উৎসের সাহায্য নেন?",
+    null,
+    2,
+    [
+      [
+        1282352191,
+        [
+          [
+            "Registered doctor or qualified healthcare professional / নিবন্ধিত চিকিৎসক বা যোগ্য স্বাস্থ্যকর্মী",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "AI chatbot / Chatgpt, Gemini,Claude",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Social media / সামাজিক যোগাযোগমাধ্যম",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Family or friends / পরিবার বা বন্ধু",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Pharmacy or medicine seller / ফার্মেসি বা ওষুধ বিক্রেতা",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Search engine or website / সার্চ ইঞ্জিন বা ওয়েবসাইট",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Other / অন্যান্য",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "It depends on the situation / পরিস্থিতির ওপর নির্ভর করে",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>When you have a health concern, which source do you usually consult first?</p><p>স্বাস্থ্য নিয়ে কোনো সমস্যা হলে সাধারণত প্রথমে কোন উৎসের সাহায্য নেন?</p>"
+    ]
+  ],
+  [
+    1902299074,
+    "Have you ever used an AI chatbot to help decide what medicine to take?\nকোন ওষুধ খাবেন তা ঠিক করতে কখনো AI chatbot ব্যবহার করেছেন কি?",
+    null,
+    2,
+    [
+      [
+        210064817,
+        [
+          [
+            "Yes / হ্যাঁ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not sure / নিশ্চিত নই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>Have you ever used an AI chatbot to help decide what medicine to take?</p><p>কোন ওষুধ খাবেন তা ঠিক করতে কখনো AI chatbot ব্যবহার করেছেন কি?</p>"
+    ]
+  ],
+  [
+    1842142499,
+    "Have you ever used health or medicine advice from social media to help decide what medicine to take?\n\nকোন ওষুধ খাবেন তা ঠিক করতে কখনো social media-র স্বাস্থ্য বা ওষুধ-সংক্রান্ত পরামর্শ ব্যবহার করেছেন কি?",
+    null,
+    2,
+    [
+      [
+        318230886,
+        [
+          [
+            "Yes / হ্যাঁ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not sure / নিশ্চিত নই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "Have you ever used health or medicine advice from social media to help decide what medicine to take?<div><br></div><div>কোন ওষুধ খাবেন তা ঠিক করতে কখনো social media-র স্বাস্থ্য বা ওষুধ-সংক্রান্ত পরামর্শ ব্যবহার করেছেন কি?</div>"
+    ]
+  ],
+  [
+    1183344530,
+    "Trust and perceived risk / আস্থা ও ঝুঁকি সম্পর্কে ধারণা",
+    "For Q13–Q15, use the following options:\n1 — Strongly disagree / সম্পূর্ণ অসম্মত\n2 — Disagree / অসম্মত\n3 — Neither agree nor disagree / নিরপেক্ষ\n4 — Agree / সম্মত\n5 — Strongly agree / সম্পূর্ণ সম্মত",
+    8,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "Trust and perceived risk / আস্থা ও ঝুঁকি সম্পর্কে ধারণা"
+    ],
+    [
+      null,
+      "<p>For Q13–Q15, use the following options:</p><ul><li><div><div><p>1 — Strongly disagree / সম্পূর্ণ অসম্মত</p></div></div></li><li><div><div><p>2 — Disagree / অসম্মত</p></div></div></li><li><div><div><p>3 — Neither agree nor disagree / নিরপেক্ষ</p></div></div></li><li><div><div><p>4 — Agree / সম্মত</p></div></div></li><li><div><div><p>5 — Strongly agree / সম্পূর্ণ সম্মত</p></div></div></li></ul>"
+    ]
+  ],
+  [
+    981456620,
+    "I believe health information provided by AI chatbots is trustworthy.\nআমি মনে করি AI chatbot-এর দেওয়া স্বাস্থ্য-তথ্য বিশ্বাসযোগ্য।",
+    null,
+    18,
+    [
+      [
+        997253752,
+        [
+          [
+            "1"
+          ],
+          [
+            "2"
+          ],
+          [
+            "3"
+          ],
+          [
+            "4"
+          ],
+          [
+            "5"
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          1
+        ]
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>I believe health information provided by AI chatbots is trustworthy.</p><p>আমি মনে করি AI chatbot-এর দেওয়া স্বাস্থ্য-তথ্য বিশ্বাসযোগ্য।</p>"
+    ]
+  ],
+  [
+    523095922,
+    "I believe health advice shared on social media is trustworthy.\nআমি মনে করি social media-তে দেওয়া স্বাস্থ্য-পরামর্শ বিশ্বাসযোগ্য।",
+    null,
+    18,
+    [
+      [
+        486710979,
+        [
+          [
+            "1"
+          ],
+          [
+            "2"
+          ],
+          [
+            "3"
+          ],
+          [
+            "4"
+          ],
+          [
+            "5"
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          1
+        ]
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>I believe health advice shared on social media is trustworthy.</p>\n<p>আমি মনে করি social media-তে দেওয়া স্বাস্থ্য-পরামর্শ বিশ্বাসযোগ্য।</p>"
+    ]
+  ],
+  [
+    404519979,
+    "I believe advice from a registered doctor is trustworthy.\nআমি মনে করি নিবন্ধিত চিকিৎসকের পরামর্শ বিশ্বাসযোগ্য।",
+    null,
+    18,
+    [
+      [
+        2111518126,
+        [
+          [
+            "1"
+          ],
+          [
+            "2"
+          ],
+          [
+            "3"
+          ],
+          [
+            "4"
+          ],
+          [
+            "5"
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          1
+        ]
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>I believe advice from a registered doctor is trustworthy.</p><p>আমি মনে করি নিবন্ধিত চিকিৎসকের পরামর্শ বিশ্বাসযোগ্য।</p><p></p>"
+    ]
+  ],
+  [
+    584796118,
+    "Untitled TitleFor Q16–Q17, use the following options:",
+    "1 — No risk / কোনো ঝুঁকি নেই\n2 — Low risk / কম ঝুঁকি\n3 — Moderate risk / মাঝারি ঝুঁকি\n4 — High risk / বেশি ঝুঁকি\n5 — Very high risk / অত্যন্ত বেশি ঝুঁকি",
+    6,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "Untitled TitleFor Q16–Q17, use the following options:"
+    ],
+    [
+      null,
+      "<li><div><div><p>1 — No risk / কোনো ঝুঁকি নেই</p></div></div></li><li><div><div><p>2 — Low risk / কম ঝুঁকি</p></div></div></li><li><div><div><p>3 — Moderate risk / মাঝারি ঝুঁকি</p></div></div></li><li><div><div><p>4 — High risk / বেশি ঝুঁকি</p></div></div></li><li><div><div><p>5 — Very high risk / অত্যন্ত বেশি ঝুঁকি</p></div></div></li>"
+    ]
+  ],
+  [
+    1671032380,
+    "How risky is it to follow medicine advice from an AI chatbot without checking it with a qualified healthcare professional?\nযোগ্য স্বাস্থ্যকর্মীর সঙ্গে যাচাই না করে AI chatbot-এর ওষুধ-সংক্রান্ত পরামর্শ অনুসরণ করা কতটা ঝুঁকিপূর্ণ?",
+    null,
+    18,
+    [
+      [
+        5318343,
+        [
+          [
+            "1"
+          ],
+          [
+            "2"
+          ],
+          [
+            "3"
+          ],
+          [
+            "4"
+          ],
+          [
+            "5"
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          1
+        ]
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>How risky is it to follow medicine advice from an AI chatbot without checking it with a qualified healthcare professional?</p><p>যোগ্য স্বাস্থ্যকর্মীর সঙ্গে যাচাই না করে AI chatbot-এর ওষুধ-সংক্রান্ত পরামর্শ অনুসরণ করা কতটা ঝুঁকিপূর্ণ?</p><p></p>"
+    ]
+  ],
+  [
+    2054832144,
+    "How risky is it to follow medicine advice from social media without checking it with a qualified healthcare professional?\nযোগ্য স্বাস্থ্যকর্মীর সঙ্গে যাচাই না করে social media-র ওষুধ-সংক্রান্ত পরামর্শ অনুসরণ করা কতটা ঝুঁকিপূর্ণ?",
+    null,
+    18,
+    [
+      [
+        377129679,
+        [
+          [
+            "1"
+          ],
+          [
+            "2"
+          ],
+          [
+            "3"
+          ],
+          [
+            "4"
+          ],
+          [
+            "5"
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          1
+        ]
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "How risky is it to follow medicine advice from social media without checking it with a qualified healthcare professional?<div>যোগ্য স্বাস্থ্যকর্মীর সঙ্গে যাচাই না করে social media-র ওষুধ-সংক্রান্ত পরামর্শ অনুসরণ করা কতটা ঝুঁকিপূর্ণ?</div>"
+    ]
+  ],
+  [
+    465855286,
+    "Verification and digital health literacy / তথ্য যাচাই ও ডিজিটাল স্বাস্থ্য-সাক্ষরতা",
+    "For Q18–Q20, use the following options:\nNever / কখনো না\nRarely / খুব কম\nSometimes / মাঝে মাঝে\nOften / প্রায়ই\nAlways / সবসময়\nNot applicable / প্রযোজ্য নয়",
+    8,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "Verification and digital health literacy / তথ্য যাচাই ও ডিজিটাল স্বাস্থ্য-সাক্ষরতা"
+    ],
+    [
+      null,
+      "<p>For Q18–Q20, use the following options:</p><ul><li><div><div><p>Never / কখনো না</p></div></div></li><li><div><div><p>Rarely / খুব কম</p></div></div></li><li><div><div><p>Sometimes / মাঝে মাঝে</p></div></div></li><li><div><div><p>Often / প্রায়ই</p></div></div></li><li><div><div><p>Always / সবসময়</p></div></div></li><li><div><div><p>Not applicable / প্রযোজ্য নয়</p></div></div></li></ul>"
+    ]
+  ],
+  [
+    913723194,
+    "Before acting on online health advice, how often do you check it using another reliable source?\nঅনলাইনে পাওয়া স্বাস্থ্য-পরামর্শ অনুসরণ করার আগে অন্য নির্ভরযোগ্য উৎস দিয়ে কতবার যাচাই করেন?",
+    null,
+    2,
+    [
+      [
+        199838671,
+        [
+          [
+            "Never / কখনো না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Rarely / খুব কম",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Sometimes / মাঝে মাঝে",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Often / প্রায়ই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Always / সবসময়",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not applicable / প্রযোজ্য নয়",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>Before acting on online health advice, how often do you check it using another reliable source?</p>\n<p>অনলাইনে পাওয়া স্বাস্থ্য-পরামর্শ অনুসরণ করার আগে অন্য নির্ভরযোগ্য উৎস দিয়ে কতবার যাচাই করেন?</p>"
+    ]
+  ],
+  [
+    1366667073,
+    "How often do you verify AI or social-media medicine advice with a registered doctor or qualified healthcare professional?\nAI বা social media-র ওষুধ-সংক্রান্ত পরামর্শ নিবন্ধিত চিকিৎসক বা যোগ্য স্বাস্থ্যকর্মীর সঙ্গে কতবার যাচাই করেন?",
+    null,
+    2,
+    [
+      [
+        215353442,
+        [
+          [
+            "Never / কখনো না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Rarely / খুব কম",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Sometimes / মাঝে মাঝে",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Often / প্রায়ই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Always / সবসময়",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not applicable / প্রযোজ্য নয়",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>How often do you verify AI or social-media medicine advice with a registered doctor or qualified healthcare professional?</p><p>\n</p><p>AI বা social media-র ওষুধ-সংক্রান্ত পরামর্শ নিবন্ধিত চিকিৎসক বা যোগ্য স্বাস্থ্যকর্মীর সঙ্গে কতবার যাচাই করেন?</p>"
+    ]
+  ],
+  [
+    1882582513,
+    "How often do you check who created or published online health information?\nঅনলাইনের স্বাস্থ্য-তথ্য কে তৈরি বা প্রকাশ করেছে, তা কতবার পরীক্ষা করেন?",
+    null,
+    2,
+    [
+      [
+        136564899,
+        [
+          [
+            "Never / কখনো না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Rarely / খুব কম",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Sometimes / মাঝে মাঝে",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Often / প্রায়ই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Always / সবসময়",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not applicable / প্রযোজ্য নয়",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>How often do you check who created or published online health information?</p><p>অনলাইনের স্বাস্থ্য-তথ্য কে তৈরি বা প্রকাশ করেছে, তা কতবার পরীক্ষা করেন?</p>"
+    ]
+  ],
+  [
+    2119027166,
+    "For Q21–Q22, use the same 1–5 agreement scale as Q13–Q15, plus “Not enough experience / যথেষ্ট অভিজ্ঞতা নেই”.Untitled Title",
+    null,
+    6,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "For Q21–Q22, use the same 1–5 agreement scale as Q13–Q15, plus “Not enough experience / যথেষ্ট অভিজ্ঞতা নেই”.Untitled Title"
+    ]
+  ],
+  [
+    2031078922,
+    "I understand that AI chatbots can provide incorrect, incomplete, or outdated health information.\nআমি বুঝি যে AI chatbot ভুল, অসম্পূর্ণ বা পুরোনো স্বাস্থ্য-তথ্য দিতে পারে।",
+    null,
+    2,
+    [
+      [
+        1746351141,
+        [
+          [
+            "Never / কখনো না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Rarely / খুব কম",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Sometimes / মাঝে মাঝে",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Often / প্রায়ই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Always / সবসময়",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not applicable / প্রযোজ্য নয়",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>I understand that AI chatbots can provide incorrect, incomplete, or outdated health information.</p><p>\n</p><p>আমি বুঝি যে AI chatbot ভুল, অসম্পূর্ণ বা পুরোনো স্বাস্থ্য-তথ্য দিতে পারে।</p>"
+    ]
+  ],
+  [
+    880630698,
+    "I can usually tell when an online health claim needs checking by a qualified healthcare professional.\nঅনলাইনের কোনো স্বাস্থ্য-দাবি যোগ্য স্বাস্থ্যকর্মীর মাধ্যমে যাচাই করা প্রয়োজন কি না, তা আমি সাধারণত বুঝতে পারি।",
+    null,
+    2,
+    [
+      [
+        385584714,
+        [
+          [
+            "Never / কখনো না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Rarely / খুব কম",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Sometimes / মাঝে মাঝে",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Often / প্রায়ই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Always / সবসময়",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not applicable / প্রযোজ্য নয়",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>I can usually tell when an online health claim needs checking by a qualified healthcare professional.</p><p>অনলাইনের কোনো স্বাস্থ্য-দাবি যোগ্য স্বাস্থ্যকর্মীর মাধ্যমে যাচাই করা প্রয়োজন কি না, তা আমি সাধারণত বুঝতে পারি।</p>"
+    ]
+  ],
+  [
+    1350183513,
+    "Medical Images, Reports, and PrescriptionsUntitled Title / চিকিৎসা-সংক্রান্ত ছবি, রিপোর্ট ও প্রেসক্রিপশন",
+    null,
+    8,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "Medical Images, Reports, and PrescriptionsUntitled Title / চিকিৎসা-সংক্রান্ত ছবি, রিপোর্ট ও প্রেসক্রিপশন<span></span>"
+    ]
+  ],
+  [
+    599865414,
+    "In the past 12 months, have you uploaded a medical report, test result, X-ray, or scan to an AI chatbot?\n\nগত ১২ মাসে মেডিকেল রিপোর্ট, পরীক্ষার ফলাফল, এক্স-রে বা স্ক্যান AI chatbot-এ আপলোড করেছেন কি?",
+    null,
+    2,
+    [
+      [
+        283137056,
+        [
+          [
+            "Yes / হ্যাঁ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not sure / নিশ্চিত নই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>In the past 12 months, have you uploaded a medical report, test result, X-ray, or scan to an AI chatbot?</p><p><br>গত ১২ মাসে মেডিকেল রিপোর্ট, পরীক্ষার ফলাফল, এক্স-রে বা স্ক্যান AI chatbot-এ আপলোড করেছেন কি?</p>"
+    ]
+  ],
+  [
+    2000371488,
+    "In the past 12 months, have you uploaded a prescription or medicine-packaging photograph to an AI chatbot?\n\nগত ১২ মাসে প্রেসক্রিপশন বা ওষুধের প্যাকেটের ছবি AI chatbot-এ আপলোড করেছেন কি?",
+    null,
+    2,
+    [
+      [
+        1557265434,
+        [
+          [
+            "Yes / হ্যাঁ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not sure / নিশ্চিত নই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>In the past 12 months, have you uploaded a prescription or medicine-packaging photograph to an AI chatbot?</p><p><br>গত ১২ মাসে প্রেসক্রিপশন বা ওষুধের প্যাকেটের ছবি AI chatbot-এ আপলোড করেছেন কি?</p>"
+    ]
+  ],
+  [
+    4844538,
+    "In the past 12 months, have you uploaded a prescription or medicine-packaging photograph to an AI chatbot?\n\nগত ১২ মাসে প্রেসক্রিপশন বা ওষুধের প্যাকেটের ছবি AI chatbot-এ আপলোড করেছেন কি?",
+    null,
+    2,
+    [
+      [
+        1116767617,
+        [
+          [
+            "Yes / হ্যাঁ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not sure / নিশ্চিত নই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>In the past 12 months, have you uploaded a prescription or medicine-packaging photograph to an AI chatbot?</p><p><br>গত ১২ মাসে প্রেসক্রিপশন বা ওষুধের প্যাকেটের ছবি AI chatbot-এ আপলোড করেছেন কি?</p>"
+    ]
+  ],
+  [
+    440171212,
+    "In the past 12 months, have you uploaded a photograph of a visible health problem to an AI chatbot?\n\nগত ১২ মাসে দৃশ্যমান কোনো স্বাস্থ্যসমস্যার ছবি AI chatbot-এ আপলোড করেছেন কি?",
+    null,
+    2,
+    [
+      [
+        335291605,
+        [
+          [
+            "Yes / হ্যাঁ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not sure / নিশ্চিত নই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p><span><span></span></span></p><p></p><p></p><p>In the past 12 months, have you uploaded a photograph of a visible health problem to an AI chatbot?</p><p><br><span>গত ১২ মাসে দৃশ্যমান কোনো স্বাস্থ্যসমস্যার ছবি AI chatbot-এ আপলোড করেছেন কি?</span></p>"
+    ]
+  ],
+  [
+    1681680304,
+    "Have you ever changed a medicine-related decision based on advice received after uploading a medical image, prescription or report to an AI chatbot or social media?\nAI chatbot বা social media-তে চিকিৎসাসংক্রান্ত ছবি, প্রেসক্রিপশন বা রিপোর্ট আপলোড করার পর পাওয়া পরামর্শের ভিত্তিতে কখনো ওষুধ-সংক্রান্ত সিদ্ধান্ত পরিবর্তন করেছেন কি?",
+    null,
+    2,
+    [
+      [
+        1341329506,
+        [
+          [
+            "Yes / হ্যাঁ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not sure / নিশ্চিত নই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p><span><span></span></span></p><p></p><p></p><p>Have you ever changed a medicine-related decision based on advice received after uploading a medical image, prescription or report to an AI chatbot or social media?</p><p>AI chatbot বা social media-তে চিকিৎসাসংক্রান্ত ছবি, প্রেসক্রিপশন বা রিপোর্ট আপলোড করার পর পাওয়া পরামর্শের ভিত্তিতে কখনো ওষুধ-সংক্রান্ত সিদ্ধান্ত পরিবর্তন করেছেন কি?</p>"
+    ]
+  ],
+  [
+    2089010770,
+    "Healthcare Access  / স্বাস্থ্যসেবা পাওয়ার সুযোগ",
+    null,
+    8,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      " Healthcare Access  / স্বাস্থ্যসেবা পাওয়ার সুযোগ<span></span>"
+    ]
+  ],
+  [
+    1227182005,
+    "During the past 12 months, how often have you had difficulty accessing a qualified healthcare professional when you needed one? \n\nগত ১২ মাসে প্রয়োজনের সময় যোগ্য স্বাস্থ্যপেশাজীবীর সেবা পেতে আপনি কতবার সমস্যায় পড়েছেন?",
+    null,
+    2,
+    [
+      [
+        936771683,
+        [
+          [
+            "Never / কখনো না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Rarely / খুব কম",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Sometimes / মাঝে মাঝে",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Often / প্রায়ই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Very often / খুব ঘন ঘন",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not applicable / প্রযোজ্য নয়",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "During the past 12 months, how often have you had difficulty accessing a qualified healthcare professional when you needed one? <div><br></div><div>গত ১২ মাসে প্রয়োজনের সময় যোগ্য স্বাস্থ্যপেশাজীবীর সেবা পেতে আপনি কতবার সমস্যায় পড়েছেন?</div>"
+    ]
+  ],
+  [
+    1590030431,
+    "How easy is it to get professional advice before taking medicine when you need it?\nওষুধ খাওয়ার আগে প্রয়োজনীয় পেশাগত পরামর্শ পাওয়া আপনার জন্য কতটা সহজ?",
+    null,
+    2,
+    [
+      [
+        599639171,
+        [
+          [
+            "Never / কখনো না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Rarely / খুব কম",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Sometimes / মাঝে মাঝে",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Often / প্রায়ই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Very often / খুব ঘন ঘন",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not applicable / প্রযোজ্য নয়",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>How easy is it to get professional advice before taking medicine when you need it?</p><p>ওষুধ খাওয়ার আগে প্রয়োজনীয় পেশাগত পরামর্শ পাওয়া আপনার জন্য কতটা সহজ?</p>"
+    ]
+  ],
+  [
+    712735564,
+    "What barriers, if any, make it difficult for you to access professional healthcare? \n\nপেশাদার স্বাস্থ্যসেবা পেতে আপনার কী কী বাধার সম্মুখীন হতে হয়?",
+    null,
+    2,
+    [
+      [
+        1886761751,
+        [
+          [
+            "Cost / খরচ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Distance or transport / দূরত্ব বা যাতায়াত",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Lack of time / সময়ের অভাব",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Appointment or waiting time / অ্যাপয়েন্টমেন্ট বা অপেক্ষার সময়",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Limited local healthcare services / স্থানীয় স্বাস্থ্যসেবার অভাব",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Privacy concerns or embarrassment / গোপনীয়তা নিয়ে উদ্বেগ বা অস্বস্তি",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No difficulty / কোনো সমস্যা নেই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Other / অন্যান্য",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "What barriers, if any, make it difficult for you to access professional healthcare? <div><br></div><div>পেশাদার স্বাস্থ্যসেবা পেতে আপনার কী কী বাধার সম্মুখীন হতে হয়?</div>"
+    ]
+  ],
+  [
+    253106922,
+    "Self-medication behaviour / নিজে থেকে ওষুধ গ্রহণ",
+    "For this survey, self-medication means taking medicine for a health problem without consulting a registered doctor or qualified healthcare professional for that specific episode. Please think about the past 12 months. Do not include medicine taken exactly as prescribed for that same episode.\nএই জরিপে self-medication বলতে কোনো স্বাস্থ্যসমস্যার জন্য সেই নির্দিষ্ট সমস্যার ক্ষেত্রে নিবন্ধিত চিকিৎসক বা যোগ্য স্বাস্থ্যকর্মীর পরামর্শ না নিয়ে ওষুধ গ্রহণ বোঝানো হয়েছে। গত ১২ মাসের কথা ভেবে উত্তর দিন। একই সমস্যার জন্য চিকিৎসকের নির্দেশ অনুযায়ী ওষুধ খাওয়া এতে অন্তর্ভুক্ত নয়।",
+    8,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "Self-medication behaviour / নিজে থেকে ওষুধ গ্রহণ<span></span>"
+    ],
+    [
+      null,
+      "<p><span>For this survey, self-medication means taking medicine for a health problem without consulting a registered doctor or qualified healthcare professional for that specific episode. Please think about the past 12 months. Do not include medicine taken exactly as prescribed for that same episode.</span></p><p>এই জরিপে self-medication বলতে কোনো স্বাস্থ্যসমস্যার জন্য সেই নির্দিষ্ট সমস্যার ক্ষেত্রে নিবন্ধিত চিকিৎসক বা যোগ্য স্বাস্থ্যকর্মীর পরামর্শ না নিয়ে ওষুধ গ্রহণ বোঝানো হয়েছে। গত ১২ মাসের কথা ভেবে উত্তর দিন। একই সমস্যার জন্য চিকিৎসকের নির্দেশ অনুযায়ী ওষুধ খাওয়া এতে অন্তর্ভুক্ত নয়।</p>"
+    ]
+  ],
+  [
+    321975734,
+    " During the past 12 months, have you taken any medicine for a health problem without consulting a registered doctor or qualified healthcare professional for that episode?\nগত ১২ মাসে কোনো স্বাস্থ্যসমস্যার জন্য সেই সমস্যার ক্ষেত্রে নিবন্ধিত চিকিৎসক বা যোগ্য স্বাস্থ্যকর্মীর পরামর্শ না নিয়ে ওষুধ খেয়েছেন কি?",
+    null,
+    2,
+    [
+      [
+        617355114,
+        [
+          [
+            "Yes / হ্যাঁ",
+            null,
+            -2,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            -2,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            -2,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        1
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p> During the past 12 months, have you taken any medicine for a health problem without consulting a registered doctor or qualified healthcare professional for that episode?</p><p>গত ১২ মাসে কোনো স্বাস্থ্যসমস্যার জন্য সেই সমস্যার ক্ষেত্রে নিবন্ধিত চিকিৎসক বা যোগ্য স্বাস্থ্যকর্মীর পরামর্শ না নিয়ে ওষুধ খেয়েছেন কি?</p>"
+    ]
+  ],
+  [
+    1124506730,
+    "If yes, what were the main reasons for self-medication? Select all that apply.\nহ্যাঁ হলে, নিজে থেকে ওষুধ গ্রহণের প্রধান কারণগুলো কী ছিল? প্রযোজ্য সবগুলো বেছে নিন।",
+    null,
+    4,
+    [
+      [
+        1690369811,
+        [
+          [
+            "Lower cost / কম খরচ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Faster or more convenient / দ্রুত বা বেশি সুবিধাজনক",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Similar problem before / আগে একই সমস্যা হয়েছিল",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Family or friends' advice / পরিবার বা বন্ধুর পরামর্শ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "AI chatbot advice / AI chatbot-এর পরামর্শ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Social-media advice / social media-র পরামর্শ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Difficulty accessing healthcare / স্বাস্থ্যসেবা পেতে সমস্যা",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Pharmacy or medicine seller advice / ফার্মেসি বা ওষুধ বিক্রেতার পরামর্শ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Other / অন্যান্য",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        0,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>If yes, what were the main reasons for self-medication? Select all that apply.</p><p>হ্যাঁ হলে, নিজে থেকে ওষুধ গ্রহণের প্রধান কারণগুলো কী ছিল? প্রযোজ্য সবগুলো বেছে নিন।</p>"
+    ]
+  ],
+  [
+    138368946,
+    "Have you searched online for health advice because you felt uncomfortable discussing a personal health problem with another person?\nব্যক্তিগত স্বাস্থ্যসমস্যা অন্যের সঙ্গে আলোচনা করতে অস্বস্তি হওয়ায় অনলাইনে পরামর্শ খুঁজেছেন কি?",
+    null,
+    2,
+    [
+      [
+        1214063378,
+        [
+          [
+            "Yes, in the past 12 months / হ্যাঁ, গত ১২ মাসে",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Yes, earlier than 12 months ago / হ্যাঁ, ১২ মাসেরও আগে",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not sure / নিশ্চিত নই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>Have you searched online for health advice because you felt uncomfortable discussing a personal health problem with another person?</p><p>ব্যক্তিগত স্বাস্থ্যসমস্যা অন্যের সঙ্গে আলোচনা করতে অস্বস্তি হওয়ায় অনলাইনে পরামর্শ খুঁজেছেন কি?</p>"
+    ]
+  ],
+  [
+    2040603120,
+    " What are your reasons for preferring online information for sensitive health concerns?\nসংবেদনশীল স্বাস্থ্যসমস্যার ক্ষেত্রে অনলাইন তথ্য পছন্দ করার কারণ কী?",
+    null,
+    4,
+    [
+      [
+        804560572,
+        [
+          [
+            "Privacy / গোপনীয়তা",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Embarrassment or shame / লজ্জা বা সংকোচ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Fear of judgment / অন্যের বিচার করার আশঙ্কা",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Do not want family or friends to know / পরিবার বা বন্ধুবান্ধবকে জানাতে চাই না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Quick access / দ্রুত তথ্য পাওয়া",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Cost of consultation / পরামর্শের খরচ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Difficulty accessing healthcare / স্বাস্থ্যসেবা পেতে অসুবিধা",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Want to understand the problem first / আগে সমস্যাটি বুঝতে চাই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "",
+            null,
+            null,
+            null,
+            1
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p> What are your reasons for preferring online information for sensitive health concerns?</p><p>সংবেদনশীল স্বাস্থ্যসমস্যার ক্ষেত্রে অনলাইন তথ্য পছন্দ করার কারণ কী?</p>"
+    ]
+  ],
+  [
+    889355053,
+    " Have you delayed professional healthcare because you preferred to manage a health problem privately using AI or social media?\nAI বা সামাজিক যোগাযোগমাধ্যম ব্যবহার করে গোপনে সমস্যা সামলাতে চেয়েছেন বলে পেশাদার চিকিৎসা নিতে দেরি করেছেন কি?",
+    null,
+    2,
+    [
+      [
+        1138141830,
+        [
+          [
+            "Yes, in the past 12 months / হ্যাঁ, গত ১২ মাসে",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Yes, earlier than 12 months ago / হ্যাঁ, ১২ মাসেরও আগে",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not sure / নিশ্চিত নই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p> Have you delayed professional healthcare because you preferred to manage a health problem privately using AI or social media?</p><p>AI বা সামাজিক যোগাযোগমাধ্যম ব্যবহার করে গোপনে সমস্যা সামলাতে চেয়েছেন বলে পেশাদার চিকিৎসা নিতে দেরি করেছেন কি?</p>"
+    ]
+  ],
+  [
+    1515209513,
+    "Have you tried a treatment, home remedy, diet, exercise routine, or medicine after watching health-related content on social media without consulting a qualified healthcare professional?\nসামাজিক যোগাযোগমাধ্যমে স্বাস্থ্যবিষয়ক কনটেন্ট দেখে যোগ্য স্বাস্থ্যসেবা পেশাজীবীর পরামর্শ ছাড়া কোনো চিকিৎসাপদ্ধতি, ঘরোয়া প্রতিকার, খাদ্যাভ্যাস, ব্যায়াম বা ওষুধ ব্যবহার করে দেখেছেন কি?",
+    null,
+    2,
+    [
+      [
+        2033242412,
+        [
+          [
+            "Yes, in the past 12 months / হ্যাঁ, গত ১২ মাসে",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Yes, earlier than 12 months ago / হ্যাঁ, ১২ মাসেরও আগে",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not sure / নিশ্চিত নই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>Have you tried a treatment, home remedy, diet, exercise routine, or medicine after watching health-related content on social media without consulting a qualified healthcare professional?</p><p>সামাজিক যোগাযোগমাধ্যমে স্বাস্থ্যবিষয়ক কনটেন্ট দেখে যোগ্য স্বাস্থ্যসেবা পেশাজীবীর পরামর্শ ছাড়া কোনো চিকিৎসাপদ্ধতি, ঘরোয়া প্রতিকার, খাদ্যাভ্যাস, ব্যায়াম বা ওষুধ ব্যবহার করে দেখেছেন কি?</p>"
+    ]
+  ],
+  [
+    1444681401,
+    "During the past 12 months, have you taken medicine based on AI or social-media advice without verifying it with a qualified healthcare professional or another reliable source?\nগত ১২ মাসে AI বা social media-র পরামর্শ যোগ্য স্বাস্থ্যকর্মী বা অন্য নির্ভরযোগ্য উৎসের সঙ্গে যাচাই না করে সেই পরামর্শের ভিত্তিতে ওষুধ খেয়েছেন কি?",
+    null,
+    2,
+    [
+      [
+        384310178,
+        [
+          [
+            "Yes / হ্যাঁ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "I did not use such advice / এমন পরামর্শ ব্যবহার করিনি",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>During the past 12 months, have you taken medicine based on AI or social-media advice without verifying it with a qualified healthcare professional or another reliable source?</p><p>গত ১২ মাসে AI বা social media-র পরামর্শ যোগ্য স্বাস্থ্যকর্মী বা অন্য নির্ভরযোগ্য উৎসের সঙ্গে যাচাই না করে সেই পরামর্শের ভিত্তিতে ওষুধ খেয়েছেন কি?</p>"
+    ]
+  ],
+  [
+    997591554,
+    "In the past 12 months, did you experience an unwanted effect after taking medicine without professional consultation?\nগত ১২ মাসে পেশাগত পরামর্শ ছাড়া ওষুধ খাওয়ার পর কোনো অনাকাঙ্ক্ষিত প্রভাব অনুভব করেছেন কি?",
+    null,
+    2,
+    [
+      [
+        498587190,
+        [
+          [
+            "Yes / হ্যাঁ",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "No / না",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not sure / নিশ্চিত নই",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Not applicable / প্রযোজ্য নয়",
+            null,
+            null,
+            null,
+            0
+          ],
+          [
+            "Prefer not to say / বলতে অনিচ্ছুক",
+            null,
+            null,
+            null,
+            0
+          ]
+        ],
+        1,
+        null,
+        null,
+        null,
+        null,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>In the past 12 months, did you experience an unwanted effect after taking medicine without professional consultation?</p><p>গত ১২ মাসে পেশাগত পরামর্শ ছাড়া ওষুধ খাওয়ার পর কোনো অনাকাঙ্ক্ষিত প্রভাব অনুভব করেছেন কি?</p>"
+    ]
+  ],
+  [
+    953023011,
+    "Same-advice comparison / একই পরামর্শের উৎসভিত্তিক তুলনা",
+    "Instruction for participants\nImagine a person has a common health concern and sees this advice:\n“Before taking medicine, check whether it is suitable for you and seek advice from a qualified healthcare professional when needed.”\nThe wording and situation are the same; only the source label changes. This is a hypothetical research scenario, not medical advice.\nকল্পনা করুন, কারও একটি সাধারণ স্বাস্থ্যসমস্যা হয়েছে। তিনি এই পরামর্শটি দেখলেন:\n“ওষুধ খাওয়ার আগে এটি আপনার জন্য উপযুক্ত কি না যাচাই করুন এবং প্রয়োজন হলে যোগ্য স্বাস্থ্যকর্মীর পরামর্শ নিন।”\nবক্তব্য ও পরিস্থিতি একই; শুধু উৎসের পরিচয় আলাদা। এটি একটি কাল্পনিক গবেষণা-পরিস্থিতি, চিকিৎসা-পরামর্শ নয়।",
+    8,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      " Same-advice comparison / একই পরামর্শের উৎসভিত্তিক তুলনা"
+    ],
+    [
+      null,
+      "<p>Instruction for participants</p><p>Imagine a person has a common health concern and sees this advice:</p><p>“Before taking medicine, check whether it is suitable for you and seek advice from a qualified healthcare professional when needed.”</p><p>The wording and situation are the same; only the source label changes. This is a hypothetical research scenario, not medical advice.</p><p>কল্পনা করুন, কারও একটি সাধারণ স্বাস্থ্যসমস্যা হয়েছে। তিনি এই পরামর্শটি দেখলেন:</p><p>“ওষুধ খাওয়ার আগে এটি আপনার জন্য উপযুক্ত কি না যাচাই করুন এবং প্রয়োজন হলে যোগ্য স্বাস্থ্যকর্মীর পরামর্শ নিন।”</p><p>বক্তব্য ও পরিস্থিতি একই; শুধু উৎসের পরিচয় আলাদা। এটি একটি কাল্পনিক গবেষণা-পরিস্থিতি, চিকিৎসা-পরামর্শ নয়।</p>"
+    ]
+  ],
+  [
+    331710417,
+    "How credible would you find this same advice if it came from each source?\nএকই পরামর্শটি প্রতিটি উৎস থেকে এলে কতটা বিশ্বাসযোগ্য মনে হবে?",
+    null,
+    7,
+    [
+      [
+        67480345,
+        [
+          [
+            "1 — Not at all credible / একেবারেই বিশ্বাসযোগ্য নয়"
+          ],
+          [
+            "2 — Slightly credible / সামান্য বিশ্বাসযোগ্য"
+          ],
+          [
+            "3 — Moderately credible / মাঝারি মাত্রায় বিশ্বাসযোগ্য"
+          ],
+          [
+            "4 — Very credible / অনেকটা বিশ্বাসযোগ্য"
+          ],
+          [
+            "5 — Extremely credible / অত্যন্ত বিশ্বাসযোগ্য"
+          ]
+        ],
+        1,
+        [
+          "AI chatbot / এআই"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          0
+        ]
+      ],
+      [
+        988781243,
+        [
+          [
+            "1 — Not at all credible / একেবারেই বিশ্বাসযোগ্য নয়"
+          ],
+          [
+            "2 — Slightly credible / সামান্য বিশ্বাসযোগ্য"
+          ],
+          [
+            "3 — Moderately credible / মাঝারি মাত্রায় বিশ্বাসযোগ্য"
+          ],
+          [
+            "4 — Very credible / অনেকটা বিশ্বাসযোগ্য"
+          ],
+          [
+            "5 — Extremely credible / অত্যন্ত বিশ্বাসযোগ্য"
+          ]
+        ],
+        1,
+        [
+          "Social-media post / সামাজিক যোগাযোগ মাধ্যম-র পোস্ট"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          0
+        ]
+      ],
+      [
+        1155148457,
+        [
+          [
+            "1 — Not at all credible / একেবারেই বিশ্বাসযোগ্য নয়"
+          ],
+          [
+            "2 — Slightly credible / সামান্য বিশ্বাসযোগ্য"
+          ],
+          [
+            "3 — Moderately credible / মাঝারি মাত্রায় বিশ্বাসযোগ্য"
+          ],
+          [
+            "4 — Very credible / অনেকটা বিশ্বাসযোগ্য"
+          ],
+          [
+            "5 — Extremely credible / অত্যন্ত বিশ্বাসযোগ্য"
+          ]
+        ],
+        1,
+        [
+          "Registered doctor / নিবন্ধিত চিকিৎসক"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          0
+        ]
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>How credible would you find this same advice if it came from each source?</p><p>একই পরামর্শটি প্রতিটি উৎস থেকে এলে কতটা বিশ্বাসযোগ্য মনে হবে?</p>"
+    ]
+  ],
+  [
+    1954545695,
+    "How likely would you be to follow this advice without checking it further if it came from each source?\nপ্রতিটি উৎস থেকে এলে আরও যাচাই না করে পরামর্শটি অনুসরণ করার সম্ভাবনা কতটা?",
+    null,
+    7,
+    [
+      [
+        1489305775,
+        [
+          [
+            "1 — Very unlikely / একেবারেই সম্ভাবনা নেই"
+          ],
+          [
+            "2 — Unlikely / সম্ভাবনা কম"
+          ],
+          [
+            "3 — Neither likely nor unlikely / সম্ভাবনা আছে বা নেই—কোনোটিই নয়"
+          ],
+          [
+            "4 — Likely / সম্ভাবনা আছে"
+          ],
+          [
+            "5 — Very likely / খুব বেশি সম্ভাবনা আছে"
+          ]
+        ],
+        1,
+        [
+          "AI chatbot / এআই"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          0
+        ]
+      ],
+      [
+        1952341507,
+        [
+          [
+            "1 — Very unlikely / একেবারেই সম্ভাবনা নেই"
+          ],
+          [
+            "2 — Unlikely / সম্ভাবনা কম"
+          ],
+          [
+            "3 — Neither likely nor unlikely / সম্ভাবনা আছে বা নেই—কোনোটিই নয়"
+          ],
+          [
+            "4 — Likely / সম্ভাবনা আছে"
+          ],
+          [
+            "5 — Very likely / খুব বেশি সম্ভাবনা আছে"
+          ]
+        ],
+        1,
+        [
+          "Social-media post / সামাজিক যোগাযোগ মাধ্যম-র পোস্ট"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          0
+        ]
+      ],
+      [
+        2088882188,
+        [
+          [
+            "1 — Very unlikely / একেবারেই সম্ভাবনা নেই"
+          ],
+          [
+            "2 — Unlikely / সম্ভাবনা কম"
+          ],
+          [
+            "3 — Neither likely nor unlikely / সম্ভাবনা আছে বা নেই—কোনোটিই নয়"
+          ],
+          [
+            "4 — Likely / সম্ভাবনা আছে"
+          ],
+          [
+            "5 — Very likely / খুব বেশি সম্ভাবনা আছে"
+          ]
+        ],
+        1,
+        [
+          "Registered doctor / নিবন্ধিত চিকিৎসক"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          0
+        ]
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>How likely would you be to follow this advice without checking it further if it came from each source?</p><p>প্রতিটি উৎস থেকে এলে আরও যাচাই না করে পরামর্শটি অনুসরণ করার সম্ভাবনা কতটা?</p>"
+    ]
+  ],
+  [
+    67931280,
+    "How risky would you consider following this advice without further checking if it came from each source?\nপ্রতিটি উৎস থেকে এলে আরও যাচাই না করে পরামর্শটি অনুসরণ করাকে কতটা ঝুঁকিপূর্ণ মনে হবে?",
+    null,
+    7,
+    [
+      [
+        76749027,
+        [
+          [
+            "1 — No risk / কোনো ঝুঁকি নেই"
+          ],
+          [
+            "2 — Low risk / কম ঝুঁকি"
+          ],
+          [
+            "3 — Moderate risk / মাঝারি ঝুঁকি"
+          ],
+          [
+            "4 — High risk / বেশি ঝুঁকি"
+          ],
+          [
+            "5 — Very high risk / অত্যন্ত বেশি ঝুঁকি"
+          ]
+        ],
+        1,
+        [
+          "AI chatbot / এআই"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          0
+        ]
+      ],
+      [
+        951376754,
+        [
+          [
+            "1 — No risk / কোনো ঝুঁকি নেই"
+          ],
+          [
+            "2 — Low risk / কম ঝুঁকি"
+          ],
+          [
+            "3 — Moderate risk / মাঝারি ঝুঁকি"
+          ],
+          [
+            "4 — High risk / বেশি ঝুঁকি"
+          ],
+          [
+            "5 — Very high risk / অত্যন্ত বেশি ঝুঁকি"
+          ]
+        ],
+        1,
+        [
+          "Social-media post / সামাজিক যোগাযোগ মাধ্যম-র পোস্ট"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          0
+        ]
+      ],
+      [
+        1373825104,
+        [
+          [
+            "1 — No risk / কোনো ঝুঁকি নেই"
+          ],
+          [
+            "2 — Low risk / কম ঝুঁকি"
+          ],
+          [
+            "3 — Moderate risk / মাঝারি ঝুঁকি"
+          ],
+          [
+            "4 — High risk / বেশি ঝুঁকি"
+          ],
+          [
+            "5 — Very high risk / অত্যন্ত বেশি ঝুঁকি"
+          ]
+        ],
+        1,
+        [
+          "Registered doctor / নিবন্ধিত চিকিৎসক"
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+          0
+        ]
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p>How risky would you consider following this advice without further checking if it came from each source?</p><p>প্রতিটি উৎস থেকে এলে আরও যাচাই না করে পরামর্শটি অনুসরণ করাকে কতটা ঝুঁকিপূর্ণ মনে হবে?</p>"
+    ]
+  ],
+  [
+    1077001858,
+    "Optional comment / ঐচ্ছিক মন্তব্য",
+    null,
+    6,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "Optional comment / ঐচ্ছিক মন্তব্য"
+    ]
+  ],
+  [
+    172253722,
+    " Is there anything else you would like to share about deciding whether to trust online health or medicine advice?\nঅনলাইনের স্বাস্থ্য বা ওষুধ-সংক্রান্ত পরামর্শ বিশ্বাস করবেন কি না, তা কীভাবে সিদ্ধান্ত নেন—এ বিষয়ে আর কিছু বলতে চান কি?",
+    null,
+    1,
+    [
+      [
+        693887717,
+        null,
+        0
+      ]
+    ],
+    null,
+    null,
+    null,
+    null,
+    null,
+    null,
+    [
+      null,
+      "<p> Is there anything else you would like to share about deciding whether to trust online health or medicine advice?</p><p>অনলাইনের স্বাস্থ্য বা ওষুধ-সংক্রান্ত পরামর্শ বিশ্বাস করবেন কি না, তা কীভাবে সিদ্ধান্ত নেন—এ বিষয়ে আর কিছু বলতে চান কি?</p>"
+    ]
+  ]
+]
